@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Century From Year/Century From Year.iml" filepath="$PROJECT_DIR$/Century From Year/Century From Year.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Clock in MilliSeconds/Clock in MilliSeconds.iml" filepath="$PROJECT_DIR$/Clock in MilliSeconds/Clock in MilliSeconds.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Convert String to a Number/Convert String to a Number.iml" filepath="$PROJECT_DIR$/Convert String to a Number/Convert String to a Number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Count Of Occurences/Count Of Occurences.iml" filepath="$PROJECT_DIR$/Count Of Occurences/Count Of Occurences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Days/Days.iml" filepath="$PROJECT_DIR$/Days/Days.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dice Rolling/Dice Rolling.iml" filepath="$PROJECT_DIR$/Dice Rolling/Dice Rolling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Insert Greatest Common Divisors in Linked List/Insert Greatest Common Divisors in Linked List.iml" filepath="$PROJECT_DIR$/Insert Greatest Common Divisors in Linked List/Insert Greatest Common Divisors in Linked List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Min Max/Min Max.iml" filepath="$PROJECT_DIR$/Min Max/Min Max.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Multiplication table for number/Multiplication table for number.iml" filepath="$PROJECT_DIR$/Multiplication table for number/Multiplication table for number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NumerCheck/NumerCheck.iml" filepath="$PROJECT_DIR$/NumerCheck/NumerCheck.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/OOP.iml" filepath="$PROJECT_DIR$/OOP/OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Primitive data type/Primitive data type.iml" filepath="$PROJECT_DIR$/Primitive data type/Primitive data type.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Problem Solving.iml" filepath="$PROJECT_DIR$/.idea/Problem Solving.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Remove All Occurrences of a Substring/Remove All Occurrences of a Substring.iml" filepath="$PROJECT_DIR$/Remove All Occurrences of a Substring/Remove All Occurrences of a Substring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Remove Marks/Remove Marks.iml" filepath="$PROJECT_DIR$/Remove Marks/Remove Marks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Remove Space/Remove Space.iml" filepath="$PROJECT_DIR$/Remove Space/Remove Space.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Remove_First_and_Last/Remove_First_and_Last.iml" filepath="$PROJECT_DIR$/Remove_First_and_Last/Remove_First_and_Last.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReverseString/ReverseString.iml" filepath="$PROJECT_DIR$/ReverseString/ReverseString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Shopping/Shopping.iml" filepath="$PROJECT_DIR$/Shopping/Shopping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StreamAPI/StreamAPI.iml" filepath="$PROJECT_DIR$/StreamAPI/StreamAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String Repeat/String Repeat.iml" filepath="$PROJECT_DIR$/String Repeat/String Repeat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tuple with Same Product/Tuple with Same Product.iml" filepath="$PROJECT_DIR$/Tuple with Same Product/Tuple with Same Product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Two Dimensional Array/Two Dimensional Array.iml" filepath="$PROJECT_DIR$/Two Dimensional Array/Two Dimensional Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/alternatingCase/alternatingCase.iml" filepath="$PROJECT_DIR$/alternatingCase/alternatingCase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/array multiplication/array multiplication.iml" filepath="$PROJECT_DIR$/array multiplication/array multiplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays/arrays.iml" filepath="$PROJECT_DIR$/arrays/arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/divisible/divisible.iml" filepath="$PROJECT_DIR$/divisible/divisible.iml" />
+      <module fileurl="file://$PROJECT_DIR$/even Number/even Number.iml" filepath="$PROJECT_DIR$/even Number/even Number.iml" />
+    </modules>
+  </component>
+</project>
