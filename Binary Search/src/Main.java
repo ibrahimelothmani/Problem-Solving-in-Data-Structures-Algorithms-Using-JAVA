@@ -7,7 +7,7 @@ public class Main {
     }
 
     //	Binary	Search	Algorithm	–	Iterative	Way
-    public static int BinarySearch(int arr[], int size, int value) {
+    public static int BinarySearch(int[] arr, int size, int value) {
         int mid;
         int low = 0;
         int high = size - 1;

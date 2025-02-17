@@ -7,7 +7,7 @@ public class Main {
         System.out.println(SequentialSearch(arr, 9, 5));
     }
 
-    public static int SequentialSearch(int arr[], int size, int value) {
+    public static int SequentialSearch(int[] arr, int size, int value) {
         int i = 0;
         for (i = 0; i < size; i++) {
             if (value == arr[i])
