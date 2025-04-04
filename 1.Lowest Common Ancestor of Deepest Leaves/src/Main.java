@@ -27,6 +27,16 @@
 
 public class Main {
     public static void main(String[] args) {
-//        System.out.println("Hello, World!");
+        // Example usage
+        TreeNode root = new TreeNode(1);
+        root.left = new TreeNode(2);
+        root.right = new TreeNode(3);
+        root.left.left = new TreeNode(4);
+        root.left.right = new TreeNode(5);
+        root.right.right = new TreeNode(6);
+
+        Solution solution = new Solution();
+        TreeNode lca = solution.lcaDeepestLeaves(root);
+        System.out.println(STR."Lowest Common Ancestor of Deepest Leaves: \{lca.val}");
     }
 }
