@@ -21,8 +21,8 @@ public class Main {
                 System.out.print("Enter the amount to deposit: ");
                 amount = scanner.nextDouble();
                 balance += amount;
-                System.out.println("Amount deposited: " + amount);
-                System.out.println("Current Balance: " + balance);
+                System.out.println(STR."Amount deposited: \{amount}");
+                System.out.println(STR."Current Balance: \{balance}");
                 break;
             case 2:
                 System.out.print("Enter the amount to withdraw: ");
@@ -31,12 +31,12 @@ public class Main {
                     System.out.println("Insufficient balance");
                 } else {
                     balance -= amount;
-                    System.out.println("Amount withdrawn: " + amount);
-                    System.out.println("Current Balance: " + balance);
+                    System.out.println(STR."Amount withdrawn: \{amount}");
+                    System.out.println(STR."Current Balance: \{balance}");
                 }
                 break;
             case 3:
-                System.out.println("Current Balance: " + balance);
+                System.out.println(STR."Current Balance: \{balance}");
                 break;
             case 4:
                 System.out.println("Thank you for using our service");
