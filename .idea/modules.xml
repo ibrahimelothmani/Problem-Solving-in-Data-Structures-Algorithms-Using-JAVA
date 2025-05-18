@@ -5,8 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/1.LinkedList/1.LinkedList.iml" filepath="$PROJECT_DIR$/1.LinkedList/1.LinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/1.Lowest Common Ancestor of Deepest Leaves/1.Lowest Common Ancestor of Deepest Leaves.iml" filepath="$PROJECT_DIR$/1.Lowest Common Ancestor of Deepest Leaves/1.Lowest Common Ancestor of Deepest Leaves.iml" />
       <module fileurl="file://$PROJECT_DIR$/2.Stock span problem/2.Stock span problem.iml" filepath="$PROJECT_DIR$/2.Stock span problem/2.Stock span problem.iml" />
-      <module fileurl="file://$PROJECT_DIR$/3. Encryption and Decryption/3. Encryption and Decryption.iml" filepath="$PROJECT_DIR$/3. Encryption and Decryption/3. Encryption and Decryption.iml" />
-      <module fileurl="file://$PROJECT_DIR$/4. Length of Longest Fibonacci Subsequence/4. Length of Longest Fibonacci Subsequence.iml" filepath="$PROJECT_DIR$/4. Length of Longest Fibonacci Subsequence/4. Length of Longest Fibonacci Subsequence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3.Encryption and Decryption/3.Encryption and Decryption.iml" filepath="$PROJECT_DIR$/3.Encryption and Decryption/3.Encryption and Decryption.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4.Length of Longest Fibonacci Subsequence/4.Length of Longest Fibonacci Subsequence.iml" filepath="$PROJECT_DIR$/4.Length of Longest Fibonacci Subsequence/4.Length of Longest Fibonacci Subsequence.iml" />
       <module fileurl="file://$PROJECT_DIR$/Bank/Bank.iml" filepath="$PROJECT_DIR$/Bank/Bank.iml" />
       <module fileurl="file://$PROJECT_DIR$/Binary Search/Binary Search.iml" filepath="$PROJECT_DIR$/Binary Search/Binary Search.iml" />
       <module fileurl="file://$PROJECT_DIR$/Bubble Sort/Bubble Sort.iml" filepath="$PROJECT_DIR$/Bubble Sort/Bubble Sort.iml" />
@@ -16,6 +16,7 @@
       <module fileurl="file://$PROJECT_DIR$/Count Of Occurences/Count Of Occurences.iml" filepath="$PROJECT_DIR$/Count Of Occurences/Count Of Occurences.iml" />
       <module fileurl="file://$PROJECT_DIR$/Days/Days.iml" filepath="$PROJECT_DIR$/Days/Days.iml" />
       <module fileurl="file://$PROJECT_DIR$/Dice Rolling/Dice Rolling.iml" filepath="$PROJECT_DIR$/Dice Rolling/Dice Rolling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HackerRank/HackerRank.iml" filepath="$PROJECT_DIR$/HackerRank/HackerRank.iml" />
       <module fileurl="file://$PROJECT_DIR$/Insert Greatest Common Divisors in Linked List/Insert Greatest Common Divisors in Linked List.iml" filepath="$PROJECT_DIR$/Insert Greatest Common Divisors in Linked List/Insert Greatest Common Divisors in Linked List.iml" />
       <module fileurl="file://$PROJECT_DIR$/Largest Divisible Subset/Largest Divisible Subset.iml" filepath="$PROJECT_DIR$/Largest Divisible Subset/Largest Divisible Subset.iml" />
       <module fileurl="file://$PROJECT_DIR$/Min Max/Min Max.iml" filepath="$PROJECT_DIR$/Min Max/Min Max.iml" />
@@ -25,6 +26,8 @@
       <module fileurl="file://$PROJECT_DIR$/NumerCheck/NumerCheck.iml" filepath="$PROJECT_DIR$/NumerCheck/NumerCheck.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP/OOP.iml" filepath="$PROJECT_DIR$/OOP/OOP.iml" />
       <module fileurl="file://$PROJECT_DIR$/Primitive data type/Primitive data type.iml" filepath="$PROJECT_DIR$/Primitive data type/Primitive data type.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HackerRank/Problem 1/Problem 1.iml" filepath="$PROJECT_DIR$/HackerRank/Problem 1/Problem 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HackerRank/Problem 2/Problem 2.iml" filepath="$PROJECT_DIR$/HackerRank/Problem 2/Problem 2.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Problem Solving.iml" filepath="$PROJECT_DIR$/.idea/Problem Solving.iml" />
       <module fileurl="file://$PROJECT_DIR$/Remove All Occurrences of a Substring/Remove All Occurrences of a Substring.iml" filepath="$PROJECT_DIR$/Remove All Occurrences of a Substring/Remove All Occurrences of a Substring.iml" />
       <module fileurl="file://$PROJECT_DIR$/Remove Marks/Remove Marks.iml" filepath="$PROJECT_DIR$/Remove Marks/Remove Marks.iml" />
